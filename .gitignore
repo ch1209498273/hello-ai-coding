@@ -1,0 +1,10 @@
+# 依赖（本任务未用到，但保留以防后续扩展）
+node_modules/
+
+# WorkBuddy 助手内部数据，不属于项目源码
+.workbuddy/
+
+# 系统/编辑器临时文件
+.DS_Store
+Thumbs.db
+*.log
