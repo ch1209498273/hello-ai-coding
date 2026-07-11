@@ -1,0 +1,21 @@
+{
+  "name": "finance-cli",
+  "version": "0.1.0",
+  "description": "个人金融命令行工具（vibecoding 测试项目子项目 · 脚手架阶段）",
+  "type": "module",
+  "bin": {
+    "finance": "bin/finance.js"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "scripts": {
+    "start": "node bin/finance.js",
+    "help": "node bin/finance.js --help"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
+}
