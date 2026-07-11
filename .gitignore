@@ -8,3 +8,7 @@ node_modules/
 .DS_Store
 Thumbs.db
 *.log
+
+# vibe coding 练习子空间：各自为独立 git 仓库，不在伞形仓库中跟踪
+# （首个子空间 finance_cli；后续新建练习子空间请在此追加对应目录名）
+finance_cli/
